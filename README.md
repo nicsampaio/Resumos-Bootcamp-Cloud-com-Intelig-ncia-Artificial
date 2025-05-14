@@ -138,3 +138,35 @@ Exemplo: "Escolha o modelo de serviço adequado conforme o nível de controle ne
 - Usando uma interface de linha de comando.
 - Usando APIs.
 - Usando o PowerShell.
+
+
+
+# Conceitos de Nuvem
+
+## **IaaS (infraestrutura como serviço)**
+
+- Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+- O serviço de nuvem mais flexível.
+- Você configura e gerencia o hardware para seu aplicativo.
+
+![image.png](attachment:02c399a4-3a63-4276-87b6-e1ad84653483:image.png)
+
+## **PaaS (plataforma como serviço)**
+
+- Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+- Focado no desenvolvimento de aplicativos.
+- O gerenciamento de plataforma é realizado pelo provedor de nuvem.
+
+![image.png](attachment:8db75f18-1ed9-47f7-8a2e-1d0ea4ae23a8:image.png)
+
+## **SaaS (software como serviço)**
+
+- Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários.
+- Modelo de preço de pagamento conforme o uso.
+- Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
+![image.png](attachment:37b3b9a2-0bf9-4f86-bdf1-969acd5cf467:image.png)
+
+## **Modelo de responsabilidade compartilhada**
+
+- O modelo de responsabilidade compartilhada descreve as obrigações de segurança ao especificar os direitos e responsabilidades tanto do provedor de serviços em nuvem quanto do cliente. Em essência, ele esclarece quem é responsável por cada aspecto da segurança para garantir a proteção eficaz do ambiente de nuvem.
